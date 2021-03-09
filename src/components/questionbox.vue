@@ -83,7 +83,7 @@ export default {
       }else if(this.answered && this.correctindex === index) {
          answerclass='correct'
       }else if(this.answered && this.selectedindex === index && this.correctindex !== index) {
-        answerclass='incorrect'
+        answerclass='selected'
       }
        return answerclass
 
