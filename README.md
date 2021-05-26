@@ -1,6 +1,6 @@
 # quiz
 
-## Project setup
+## Project setup instructions
 ```
 npm install
 ```
